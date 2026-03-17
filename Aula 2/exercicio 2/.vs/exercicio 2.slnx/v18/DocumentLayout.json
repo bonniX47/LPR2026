@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\55359\\Desktop\\LPR\\Aula 2\\exercicio 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17117904-1288-E640-615F-B67B6B55E0C3}|exercicio 2\\exercicio 2.csproj|c:\\users\\55359\\desktop\\lpr\\aula 2\\exercicio 2\\exercicio 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17117904-1288-E640-615F-B67B6B55E0C3}|exercicio 2\\exercicio 2.csproj|solutionrelative:exercicio 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\55359\\Desktop\\LPR\\Aula 2\\exercicio 2\\exercicio 2\\Program.cs",
+              "RelativeDocumentMoniker": "exercicio 2\\Program.cs",
+              "ToolTip": "C:\\Users\\55359\\Desktop\\LPR\\Aula 2\\exercicio 2\\exercicio 2\\Program.cs",
+              "RelativeToolTip": "exercicio 2\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA0wAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T12:38:33.67Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
