@@ -1,37 +1,38 @@
 ﻿using System;
-     class Program
+
+class Program
+{
+    static void Main(string[] args)
     {
-        
-        static void Main(string[] args)
+        Console.WriteLine("Escolha uma classe:");
+        Console.WriteLine("1 - Guerreira");
+        Console.WriteLine("2 - Mago");
+        Console.WriteLine("3 - Arqueira");
+        Console.Write("Opção: ");
+
+        int escolha = int.Parse(Console.ReadLine());
+        Console.WriteLine();
+
+        switch (escolha)
         {
-            Console.WriteLine("Bem-vindo ao RPG!");
-            Console.WriteLine("Escolha seu personagem:");
-            Console.WriteLine("1. Guerreiro");
-            Console.WriteLine("2. Mago");
-            Console.WriteLine("3. Arqueiro");
+            case 1:
+                Console.WriteLine("Classe escolhida: Guerreira");
+                Console.WriteLine("Habilidades: Ataque Pesado, Defesa Total");
+                break;
 
-            int personagem  = int.Parse(Console.ReadLine());
-            Personagem personagem;
+            case 2:
+                Console.WriteLine("Classe escolhida: Mago");
+                Console.WriteLine("Habilidades: Bola de Fogo, Escudo de Gelo");
+                break;
 
-            switch (personagem)
-            {
-                case 1:
-                    personagem = new Guerreiro();
-                    break;
-                case 2:
-                    personagem = new Mago();
-                    break;
-                case 3:
-                    personagem = new Arqueiro();
-                    break;
-                default:
-                    Console.WriteLine("Escolha inválida. Criando um Guerreiro por padrão.");
-                    personagem = new Guerreiro();
-                    break;
-            }
+            case 3:
+                Console.WriteLine("Classe escolhida: Arqueira");
+                Console.WriteLine("Habilidades: Flecha Precisa, Disparo Triplo");
+                break;
 
-            Console.WriteLine($"Você escolheu: {personagem.Nome}");
-            Console.WriteLine($"Vida: {personagem.Vida}");
-            Console.WriteLine($"Ataque: {personagem.Ataque}");
+            default:
+                Console.WriteLine("Opção inválida! Escolha 1, 2 ou 3.");
+                break;
         }
     }
+}
