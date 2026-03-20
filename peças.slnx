@@ -2,4 +2,7 @@
   <Folder Name="/Aula03/">
     <Project Path="Aula03/peças/peças.csproj" />
   </Folder>
+  <Folder Name="/Aula04/">
+    <Project Path="Aula04/multiplo sim ou nao/multiplo sim ou nao.csproj" />
+  </Folder>
 </Solution>
