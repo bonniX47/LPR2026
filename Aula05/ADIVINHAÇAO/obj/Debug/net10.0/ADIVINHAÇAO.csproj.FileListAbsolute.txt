@@ -1,0 +1,15 @@
+C:\Users\55359\Desktop\LPR2026\Aula05\ADIVINHAÇAO\obj\Debug\net10.0\ADIVINHAÇAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55359\Desktop\LPR2026\Aula05\ADIVINHAÇAO\obj\Debug\net10.0\ADIVINHAÇAO.AssemblyInfoInputs.cache
+C:\Users\55359\Desktop\LPR2026\Aula05\ADIVINHAÇAO\obj\Debug\net10.0\ADIVINHAÇAO.AssemblyInfo.cs
+C:\Users\55359\Desktop\LPR2026\Aula05\ADIVINHAÇAO\obj\Debug\net10.0\ADIVINHAÇAO.csproj.CoreCompileInputs.cache
+C:\Users\55359\Desktop\LPR2026\Aula05\ADIVINHAÇAO\obj\Debug\net10.0\ADIVINHAÇAO.sourcelink.json
+C:\Users\55359\Desktop\LPR2026\Aula05\ADIVINHAÇAO\bin\Debug\net10.0\ADIVINHAÇAO.exe
+C:\Users\55359\Desktop\LPR2026\Aula05\ADIVINHAÇAO\bin\Debug\net10.0\ADIVINHAÇAO.deps.json
+C:\Users\55359\Desktop\LPR2026\Aula05\ADIVINHAÇAO\bin\Debug\net10.0\ADIVINHAÇAO.runtimeconfig.json
+C:\Users\55359\Desktop\LPR2026\Aula05\ADIVINHAÇAO\bin\Debug\net10.0\ADIVINHAÇAO.dll
+C:\Users\55359\Desktop\LPR2026\Aula05\ADIVINHAÇAO\bin\Debug\net10.0\ADIVINHAÇAO.pdb
+C:\Users\55359\Desktop\LPR2026\Aula05\ADIVINHAÇAO\obj\Debug\net10.0\ADIVINHAÇAO.dll
+C:\Users\55359\Desktop\LPR2026\Aula05\ADIVINHAÇAO\obj\Debug\net10.0\refint\ADIVINHAÇAO.dll
+C:\Users\55359\Desktop\LPR2026\Aula05\ADIVINHAÇAO\obj\Debug\net10.0\ADIVINHAÇAO.pdb
+C:\Users\55359\Desktop\LPR2026\Aula05\ADIVINHAÇAO\obj\Debug\net10.0\ADIVINHAÇAO.genruntimeconfig.cache
+C:\Users\55359\Desktop\LPR2026\Aula05\ADIVINHAÇAO\obj\Debug\net10.0\ref\ADIVINHAÇAO.dll
