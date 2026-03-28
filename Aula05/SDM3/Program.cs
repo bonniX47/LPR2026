@@ -1,5 +1,5 @@
 ﻿#include <iostream>
-using namespace SDM3;
+using namespace std;
 
 int main() {
     int soma = 0;
