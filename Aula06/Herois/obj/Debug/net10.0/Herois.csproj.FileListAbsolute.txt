@@ -1,0 +1,15 @@
+C:\Users\55359\Desktop\LPR2026\Aula06\Herois\bin\Debug\net10.0\Herois.exe
+C:\Users\55359\Desktop\LPR2026\Aula06\Herois\bin\Debug\net10.0\Herois.deps.json
+C:\Users\55359\Desktop\LPR2026\Aula06\Herois\bin\Debug\net10.0\Herois.runtimeconfig.json
+C:\Users\55359\Desktop\LPR2026\Aula06\Herois\bin\Debug\net10.0\Herois.dll
+C:\Users\55359\Desktop\LPR2026\Aula06\Herois\bin\Debug\net10.0\Herois.pdb
+C:\Users\55359\Desktop\LPR2026\Aula06\Herois\obj\Debug\net10.0\Herois.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55359\Desktop\LPR2026\Aula06\Herois\obj\Debug\net10.0\Herois.AssemblyInfoInputs.cache
+C:\Users\55359\Desktop\LPR2026\Aula06\Herois\obj\Debug\net10.0\Herois.AssemblyInfo.cs
+C:\Users\55359\Desktop\LPR2026\Aula06\Herois\obj\Debug\net10.0\Herois.csproj.CoreCompileInputs.cache
+C:\Users\55359\Desktop\LPR2026\Aula06\Herois\obj\Debug\net10.0\Herois.sourcelink.json
+C:\Users\55359\Desktop\LPR2026\Aula06\Herois\obj\Debug\net10.0\Herois.dll
+C:\Users\55359\Desktop\LPR2026\Aula06\Herois\obj\Debug\net10.0\refint\Herois.dll
+C:\Users\55359\Desktop\LPR2026\Aula06\Herois\obj\Debug\net10.0\Herois.pdb
+C:\Users\55359\Desktop\LPR2026\Aula06\Herois\obj\Debug\net10.0\Herois.genruntimeconfig.cache
+C:\Users\55359\Desktop\LPR2026\Aula06\Herois\obj\Debug\net10.0\ref\Herois.dll
