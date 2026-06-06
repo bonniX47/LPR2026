@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Funcaodecodigos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a99e0a762916d19d842e412a905cdd5be73362f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51e22108c775fda26fbab27f1ac4a62aebf6d655")]
 [assembly: System.Reflection.AssemblyProductAttribute("Funcaodecodigos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Funcaodecodigos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

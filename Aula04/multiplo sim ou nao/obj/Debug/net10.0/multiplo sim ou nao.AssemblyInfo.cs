@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("multiplo sim ou nao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2883f70b042b8acf68fe0e05e7dd5c99aad3fc2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51e22108c775fda26fbab27f1ac4a62aebf6d655")]
 [assembly: System.Reflection.AssemblyProductAttribute("multiplo sim ou nao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("multiplo sim ou nao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
